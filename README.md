@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=viseth101&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197278954%3Fu%3Df23dd889354a6d541ddb370a0263fb38a1cc149e%26v%3D4" alt="viseth101 hero visual" />
 </p>
 
-<p align="center"><b>UDTARAKVISETH LAY</b> · AI/ML · Computer Vision · MLOps<br/><sub>Third-year Computer Science student at Silpakorn University · AWS Certified AI Practitioner · Building ML, computer vision &amp; cloud-deployed systems · Open to AI/ML &amp; MLOps internships</sub></p>
+<p align="center"><b>UDTARAKVISETH LAY</b> · AI/ML deep · learning · Computer Vision · MLOps<br/><sub>Third-year Computer Science student at Silpakorn University · AWS Certified AI Practitioner · Building ML, computer vision &amp; cloud-deployed systems · Open to AI/ML &amp; MLOps internships</sub></p>
 
 <p align="center"><a href="https://github.com/viseth101">GitHub</a></p>
 
