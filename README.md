@@ -10,4 +10,4 @@ Third-year Computer Science student at Silpakorn University, focused on AI/ML an
 
 **Stack:** Python · PyTorch / Ultralytics YOLO · ONNX · scikit-learn · Docker · AWS · Node.js / Express · Next.js / TypeScript · Java
 
-🌐 [Portfolio](https://portfolio-viseth101s-projects.vercel.app/)
+🌐 [Portfolio](https://portfolio-viseth101s-projects.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/udtarakviseth-lay-774858373/)
